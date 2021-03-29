@@ -17,3 +17,8 @@ allprojects {
 	        implementation 'com.github.zoomself:exoplayer:Tag'
 		
 	}
+	
+	
+1、一边播放一边缓存
+
+2、无缝切换
